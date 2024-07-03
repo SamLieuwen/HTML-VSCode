@@ -1,0 +1,10 @@
+h2 {
+    margin-bottom: -0.7em;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 200px 450px;
+    gap: 20px;
+    justify-content: center;
+}
